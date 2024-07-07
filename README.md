@@ -68,9 +68,9 @@ Please make sure to update tests as appropriate.
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/kodxana>
-            <img src=https://avatars.githubusercontent.com/u/16674412?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=kodxana/>
+            <img src=https://avatars.githubusercontent.com/u/16674412?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Madiator2011/>
             <br />
-            <sub style="font-size:14px"><b>kodxana</b></sub>
+            <sub style="font-size:14px"><b>Madiator2011</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
